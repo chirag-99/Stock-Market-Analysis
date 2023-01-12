@@ -22,7 +22,7 @@ import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 
 
 import pandas as pd
-#yaha apni RawData.xlsx ki location dal neeche
+
 md = pd.read_excel("E:\Project1\Stock-Prediction-using-Lstm-master (1)\Stock-Prediction-using-Lstm-master\RawData.xlsx")
 
 
@@ -100,7 +100,7 @@ def prediction(x,y):
 
 
 from keras.models import load_model
-#yaha apni lstm_model(1).h5 ki location dal neeche
+
 model = load_model("E:\Project1\Stock-Prediction-using-Lstm-master (1)\Stock-Prediction-using-Lstm-master\lstm_model(1).h5")
 
 
