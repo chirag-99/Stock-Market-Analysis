@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-and-Prediction
+# Stock-Market-Analysis
 
 In this model, deep learning is implemented to train the proposed model using LSTM algorithm. LSTM [Long Short-Term Memory] is an algorithm that makes use of time-series mechanism for analyzing the characteristics, such that it can train the model into an efficient one for further predictions and performance.
 
